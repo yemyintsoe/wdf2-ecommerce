@@ -1,0 +1,42 @@
+/* HERO SECTION  */
+#hero {
+    height: 75vh;
+
+    /* // make everythins center in css  */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-col {
+     /* // make everythins center in css  */
+     display: flex;
+     justify-content: center;
+     align-items: start;
+     flex-direction: column;
+}
+#hero-image {
+    /* width: 450px; */
+    width: 70%;
+}
+
+/* CATEGORY SECTION  */
+.underline {
+    width: 120px;
+    height: 2px;
+    background-color: black;
+}
+
+
+/* PRODUCT SECTION  */
+
+
+/* DISCOUNT SECTION  */
+.discound-image {
+    width: 300px;
+}
+
+/* FOOTER  */
+#footer ul {
+    list-style-type: none;
+    padding: 0;
+}
